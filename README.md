@@ -3,7 +3,7 @@ A Simon Game where you have to remember the pattern and repeat it, if you miss, 
 
 ## Demo version
 
-https://pedfu.github.io/Simon-Game/
+https://pedfu.github.io/simon-game/
 
 
 * This game is based in Angela Yu's course!
